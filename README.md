@@ -14,11 +14,11 @@ Prgramming language used is java
 ## Project Screenshots
 These are some screenshots of The Conqueror
 
-###Map
+### Map
 ![Map](./images/MapScreenshot.jpg)
-###Cairo Base
+### Cairo Base
 ![Cairo Base](./images/CairoScreenshot.jpg)
-###Start Screen
+### Start Screen
 ![Start Screen](./images/StartScreenshot.jpg)
 ## Technologies
 Project is created with:
